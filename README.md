@@ -3,13 +3,12 @@
 - 🌱 I’m currently learning Python, Physics
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me yutaozhou@ucsb.edu
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yutao-Zhou)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Yutao-Zhou/Yutao-Zhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<ul>
-                        <li>
+                    <li>
                             <a href="https://github.com/Yutao-Zhou" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
                         </li>
                         <li>
