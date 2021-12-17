@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Yutao Zhou
 #### I obtained my Bachelor of Science degree in Physics at the University of California, Santa Barbara.
 ![](https://github.com/Yutao-Zhou/Yutao-Zhou/blob/main/banner%20(2).jpg)
+![](https://github.com/Yutao-Zhou/Yutao-Zhou/blob/main/UCSB_Logo.png)
+![](https://github.com/Yutao-Zhou/Yutao-Zhou/blob/main/Physics_banner.png)
 
 I graduated in December 2021. I plan to pursue Electrical or Computer Engineering or Computer Science for my Master of Science degree. With the belief that Physics is the discipline that studies how the universe functions, I chose Physics as my undergraduate major to lay a solid academic foundation. UCSB’s abundant educational resources allow me to explore broadly in the physical field, from fundamental physics to theoretical physics and experimental physics, while building my mathematical strength. In graduate school, I would love to learn programming and electronic knowledge. These would be the cornerstone for my future career plan. It would not be more fantastic if I could become an automobile electronics engineer both in the software and hardware aspect in the future to design automotive circuits freely and optimize car performance constantly. I am also passionate about AI, more specifically autonomous driving. With the advanced education that I will get from your university and my effort, I will found my dream company to pursue my dream of changing human life.
 
