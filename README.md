@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Yutao Zhou
 #### I obtained my Bachelor of Science degree in Physics at the University of California, Santa Barbara.
-![](https://github.com/Yutao-Zhou/Yutao-Zhou/blob/main/banner%20(2).jpg)
 ![](https://github.com/Yutao-Zhou/Yutao-Zhou/blob/main/UCSB_Logo.png)
 ![](https://github.com/Yutao-Zhou/Yutao-Zhou/blob/main/Physics_banner.png)
 
