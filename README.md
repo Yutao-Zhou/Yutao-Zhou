@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Yutao Zhou
 #### I am current students at Columbia Engineering pursuing M.S. in Electrical Engineering.
 #### I obtained my Bachelor of Science degree in Physics at the University of California, Santa Barbara.
+Master of Science             |  Bacholor of Science
 :-------------------------:|:-------------------------:
 ![](https://github.com/Yutao-Zhou/Yutao-Zhou/blob/main/Columbia_Engineering.png) | ![](https://github.com/Yutao-Zhou/Yutao-Zhou/blob/main/UCSB_Logo.png)
 
