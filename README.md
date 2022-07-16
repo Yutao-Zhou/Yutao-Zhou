@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Yutao Zhou
 #### I am current students at Columbia Engineering pursuing M.S. in Electrical Engineering.
 #### I obtained my Bachelor of Science degree in Physics at the University of California, Santa Barbara.
+:-------------------------:|:-------------------------:
 ![](https://github.com/Yutao-Zhou/Yutao-Zhou/blob/main/Columbia_Engineering.png) | ![](https://github.com/Yutao-Zhou/Yutao-Zhou/blob/main/UCSB_Logo.png)
 
 I am a current graduate student at Columbia University persuing M.S. in Electrical Engineering. I expect to graduate in December 2023. I obtained my Bachelor of Science in Physics at UCSB, two quarters earlier than the typical four-year schedule. I am currently looking for SDE or software developer intership for next fall. I have an independent project of an Used Car data visualization web application project. Also, I had worked as an python intern at a chemistry calculation company before
