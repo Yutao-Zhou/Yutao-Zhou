@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Yutao Zhou
-#### I'm currently a SDE Intern at AWS working on a distributed auto reboot system.
-#### I'm current students at Columbia Engineering pursuing M.S. in Electrical Engineering.
-#### I obtained my Bachelor of Science degree in Physics at the University of California, Santa Barbara.
+#### Software Development Engineer at Amazon Web Service.
+#### M.S. Alumnus from Columbia University.
+#### B.S. Alumnus from University of California Santa Barbara
 Master of Science             |  Bacholor of Science
 :-------------------------:|:-------------------------:
 ![](https://github.com/Yutao-Zhou/Yutao-Zhou/blob/main/Columbia_Engineering.png) | ![](https://github.com/Yutao-Zhou/Yutao-Zhou/blob/main/UCSB_Logo.png)
 
-I'm currently a SDE Intern at AWS working on a distributed auto reboot system. Also, I'm a current graduate student at Columbia University persuing M.S. in Electrical Engineering. I am graduating in December 2023. I obtained my Bachelor of Science in Physics at UCSB, two quarters earlier than the typical four-year schedule. I am currently looking for SDE/SWE full time position with a start time of December 2023. I had worked as an SWE intern at a chemistry calculation company before
+I'm currently a SDE at AWS. I work in a team that help AWS end to end capacity scaling and decommissioning in data center.
 
 - 📫 How to reach me: yutaozhoucolumbia@gmail.edu 
 - 😄 Pronouns: He/Him/His 
